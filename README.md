@@ -64,3 +64,6 @@ or open it directly in VS Code / JupyterLab and run all cells.
 
 - **N02BE** is the top-selling category overall, by total quantity, by average daily sales, and in every individual month checked — it's not close, outselling the next category by roughly 3x.
 - **N02BE** and **N05B** take the top two spots in January 2015, July 2016, and September 2017; the third-place category
+
+
+https://roadmap.sh/projects/pharmaceutical-sales-data
